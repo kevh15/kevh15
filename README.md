@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kevin Hettinger @kevh15
-- 👀 I’m interested in coding, web engineering
-- 🌱 I’m currently learning porgramming language C and Java
+- 🖥 I´m a computer science student at the DHBW Mannheim
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning the porgramming language Java
 - 💬 "Be the change that you wish to see in the world." ~Mahatma Gandhi
 
 
